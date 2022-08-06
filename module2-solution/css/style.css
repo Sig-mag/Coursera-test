@@ -1,15 +1,16 @@
 h1 {
   text-align: center;
   font-family: sans-serif;
+  color: #000000;
 }
 
 p { 
-  border: 2px solid;
+  border: 1px solid;
   height: auto;
   margin-right: 20px;
   padding: 50px 15px 10px 15px;
   overflow: hidden;
-  background-color: #696969;
+  background-color: #808080;
   font-family: sans-serif;
 }
 
@@ -184,4 +185,3 @@ p {
   .col-sm-12 {
     width: 100%;
   }
-  
